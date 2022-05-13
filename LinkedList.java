@@ -1,11 +1,5 @@
-public class LinkedList {
-  fdsjhgfjkewhrkew
-	flkdshfkdsjf
-
+public class linkedList {
   public static void main(String[] args) {
-    sajdflka
+    System.out.println("hello");
   }
-
-	Changing branch
-  test
 }
